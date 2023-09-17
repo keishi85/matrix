@@ -1,2 +1,1 @@
-# matrix
-This is a class of matrix
+# My product
